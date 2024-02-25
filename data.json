@@ -1,0 +1,130 @@
+[
+
+  {
+    "type" : "input_text",
+    "NAME": "email",
+    "XPATH": "",
+    "value": "m@m.com",
+    "index": ""
+  },
+  {
+    "type" : "input_text",
+    "NAME": "password",
+    "XPATH": "",
+    "value": "123456",
+    "index": ""
+  },
+  {
+    "type" : "click",
+    "NAME": "",
+    "XPATH":  "/html/body/div/main/div/div/div/div/div[2]/form/div[4]/div/button",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "click",
+    "NAME": "",
+    "XPATH":  "/html/body/div/nav/div/div/ul[1]/li[5]/a",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "input_select",
+    "NAME": "In-1",
+    "XPATH": "",
+    "value": "dd",
+    "index": ""
+  },
+  {
+    "type" : "input_select",
+    "NAME": "In-2",
+    "XPATH": "",
+    "value": "",
+    "index": 2
+  },
+  {
+    "type" : "input_select",
+    "NAME": "In-3",
+    "XPATH": "",
+    "value": "",
+    "index": 3
+  },
+  {
+    "type" : "click",
+    "NAME": "",
+    "XPATH": "/html/body/div/main/div/div/div/div[1]/div[2]/button",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type": "click",
+    "NAME": "",
+    "XPATH": "/html/body/div/main/div/div/div/div[1]/div[2]/div[2]/div[1]/div/span",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "input_prompt",
+    "NAME": "In-6",
+    "XPATH": "",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "click",
+    "NAME": "",
+    "XPATH": "/html/body/div/main/div/div/div/div[2]/div[2]/button",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "input_text",
+    "NAME": "In-7",
+    "XPATH": "",
+    "value": "0124526897",
+    "index": ""
+  },
+  {
+    "type" : "click",
+    "NAME": "",
+    "XPATH": "/html/body/div/main/div/div/div/div[2]/div[2]/button",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "input_select",
+    "NAME": "In-9",
+    "XPATH": "",
+    "value": "",
+    "index": 3
+  }
+  ,
+  {
+    "type" : "click",
+    "NAME": "",
+    "XPATH": "/html/body/div/main/div/div/div/div[4]/div[2]/button",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "input_prompt",
+    "NAME": "In-10",
+    "XPATH": "",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "click",
+    "NAME": "",
+    "XPATH": "/html/body/div/main/div/div/div/div[5]/button",
+    "value": "",
+    "index": ""
+  },
+  {
+    "type" : "exit",
+    "NAME": "",
+    "XPATH": "",
+    "value": "",
+    "index": ""
+  }
+]
